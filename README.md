@@ -1,2 +1,2 @@
 # hello-world
-Repository creation demo
+Successfully created the repository
